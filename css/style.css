@@ -1,0 +1,94 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+    padding-top: 50px;
+    color: #010101;
+    font: bold 36px/26px Arial;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2 {
+    margin: 0;
+    padding: 19px 0 19px 2px;
+    font: bold 18px/17px Myriad Pro, Arial;
+}
+
+p {
+    margin: 0;
+    padding-left: 37px;
+    color: #3a3a3a;
+    font: 14px/13px Arial;
+}
+
+li {
+    color: #3b3b3b;
+    font: 14px Myriad Pro, Arial;
+}
+
+img {
+    border: 1px solid #8f8f8f;
+}
+
+ul {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+a {
+    padding-left: 37px;
+    color: #0056d3;
+    font: italic 14px/10px Myriad Pro, Arial;
+}
+
+.background {
+    width: 1024px;
+    height: 1024px;
+    margin: 0 auto;
+    background-image: url('../img/background.jpg');
+}
+
+.container {
+    width: 500px;
+    height: 1024px;
+    margin: 0 auto;
+}
+
+.name {
+    height: 105px;
+}
+
+.photo {
+    height: 202px;
+    text-align: center;
+}
+
+.description {
+    height: 56px;
+    padding-left: 2px;
+    color: #1f1f1f;
+    font: 14px/56px Arial;
+}
+
+.reasons {
+    height: 132px;
+}
+
+.contacts {
+    height: 165px;
+}
+
+.feedback {
+    height: 361px;
+}
+
+.description,
+.reasons,
+.contacts {
+    border-bottom: 1px solid rgba(31, 31, 31, .22);
+}
+
+
